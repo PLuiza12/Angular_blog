@@ -13,4 +13,5 @@ import { MenuBarComponent } from "../../components/menu-bar/menu-bar.component";
 
 export class HomeComponent {
 
+
 }

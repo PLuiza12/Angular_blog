@@ -1,12 +1,13 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-big-card',
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './big-card.component.html',
   styleUrl: './big-card.component.css'
 })
-export class BigCardComponent implements OnInit {
+export class BigCardComponent  {
 
   @Input()
   photoCover:string=""
@@ -14,11 +15,7 @@ export class BigCardComponent implements OnInit {
   cardTitle:string=""
   @Input()
   cardDescription:string=""
-
-  constructor () {}
-
-  ngOnInit(): void {
-    throw new Error('Method not implemented.');
-  }
+  @Input()
+  Id:string="0"
 
 }
