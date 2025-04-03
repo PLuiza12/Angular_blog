@@ -10,8 +10,8 @@ import { __values } from 'tslib';
 })
 export class ContentComponent {
   photoCover:string="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1RVXhRpPlbHOQppeou06NR_2yDl1vNXMCQ&s"
-  contentTitle:string="titulo aquiii"
-  contentDescription:string="descrição aquiii"
+  contentTitle:string="Scène champêtre (Rébecca à la fontaine)"
+  contentDescription:string="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod,nisi vel consectetur interdum "
 
   constructor(
     private route:ActivatedRoute

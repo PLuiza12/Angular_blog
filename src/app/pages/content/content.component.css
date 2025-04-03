@@ -21,8 +21,10 @@
 
 .content__description{
   margin-top: 15px;
+  align-items: center;
 }
 
 .content__description > p {
   color: grey;
+  display: flex;
 }
