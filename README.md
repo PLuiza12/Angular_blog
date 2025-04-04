@@ -20,8 +20,6 @@ A versão original do projeto foi desenvolvida utilizando Angular 14. Com a evol
 
 Correções de compatibilidade com bibliotecas externas.
 
-Otimizações de desempenho e estruturação do código.
-
 Modificação do tema do blog para pinturas artísticas, substituindo o foco original em imagens da Marvel.
 
 ## Base do Projeto Original
