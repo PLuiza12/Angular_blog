@@ -29,21 +29,21 @@ Este projeto foi baseado em um código originalmente desenvolvido por Felipe Agu
 ### Como Executar o Projeto
 
 Clone o repositório:
-
+```
 git clone https://github.com/seu-usuario/seu-repositorio.git
-
+```
 Acesse o diretório do projeto:
-
+```
 cd nome-do-projeto
-
+```
 Instale as dependências:
-
+```
 npm install
-
+```
 Execute o projeto:
-
+```
 ng serve
-
+```
 O projeto estará disponível em http://localhost:4200/.
 
 ### Contribuição
